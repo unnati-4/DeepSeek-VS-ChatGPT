@@ -12,6 +12,7 @@ Session Duration (sec)	22.56	34.69
 Response Accuracy	0.80	0.89
 Response Speed (sec)	3.44 (Faster)	1.24
 Corrections Needed	0.15	0.14
+
 🔹 DeepSeek outperforms ChatGPT in user ratings, experience score, session duration, and response accuracy.
 🔹 ChatGPT has a faster response time, making it preferable for quick interactions.
 
